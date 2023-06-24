@@ -1,0 +1,21 @@
+body{
+    background: #E9ECEF;
+}
+
+.containerproduct{
+    margin-left: 450px;
+}
+
+.renk{
+    color: blueviolet;
+}
+
+.card{
+    height: 500px;
+}
+
+button{
+    margin-top: 20px;
+}
+
+
